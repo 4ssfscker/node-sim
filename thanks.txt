@@ -8,18 +8,17 @@ This file tries to list all contributors to Simutrans.
 Additional programming
 ----------------------
 
-* Markus Pristovsek: from 2005 team leader
-markus@pristovsek.de
-
 * Andreas Röver: small patches
 andreas_roever@yahoo.com
 
-* Rainer Bertram: Small patches
-hellmade@hellmade.de
+* Hellmade: Small patches
+nomad@sms-amore.de
 
 * Niels Roest: Many additional UI routines
                Simutrans' proportional font
 npr@hetnet.nl
+
+* Markus Pristovsek: Bugfixes
 
 * Pasi Ruhanen: Help with BeOS port
 duck@neutech.fi
@@ -52,17 +51,13 @@ volker.meyer@thales-is.com
                    "Master of the scrollbars"
 hsiegeln@tibco.com
 
-* Kieron Green: Textures
-                   Multiple freight graphics
-
-* Christoph Mallon: C-backends, Makefile, hosting SVN
-
 
 Help with game design
 ---------------------
 
 * Peter J. Dobrovka
 dobrovka@t-online.de
+
 
 
 Additional artwork
@@ -131,16 +126,6 @@ s.wuttich@web.de
 
 * Georg "MHZ" Moers: buildings and vehicles
 
-* sanchimaru: big harbour crane
-
-* timeshock: many small graphics
-
-* erin: many busses for the german set
-
-*singaporkid: german steamers, different station graphics
-
-* Timothy Baldock: lots of improved buildings, maglevs
-
 
 Translation
 -----------
@@ -202,15 +187,6 @@ ecostaoli@yahoo.com.br
 * Finn Rosenbech Jensen: Danish translation
 finnrj@ofir.dk
 
-* Ferencz Szekely: Hungary and Romanian translation
-phritzy74@freemail.hu
-
-* Aleks Revo: Russian translation
-deep-dream@narod.ru
-
-* Danilo Schöneberg: Russian BDF-font
-champcarracer@hotmail.com
-
 
 User manual, documentation and in-game texts
 --------------------------------------------
@@ -235,8 +211,6 @@ masato@gmx.de
 * Joachim Baum: german tree descriptions
 
 * Isaak Eiland-Hall: hosting the Simutrans Wiki
-
-* Gotthardlok: Many german/english/french help texts
 
 
 Help with assembly coding
@@ -264,5 +238,4 @@ vkem@kolumbus.fi
 
 
 Written by Hansjörg Malthaner, October 2000
-added by Markus Pristovsek
-Last update: 6-Jul-2005 - markus@pristovsek.de
+Last update: 30-Aug-2004 - hansjoerg.malthaner@gmx.de
