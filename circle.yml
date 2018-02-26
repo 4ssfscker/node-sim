@@ -1,0 +1,12 @@
+machine:
+  timezone:
+    America/Los_Angeles
+
+dependencies:
+  override:
+    - echo "ok"
+
+test:
+  override:
+    - (gmake)
+    - (gmake test)
