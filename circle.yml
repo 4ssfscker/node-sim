@@ -8,5 +8,5 @@ dependencies:
 
 test:
   override:
-    - (gmake)
-    - (gmake test)
+    - (make)
+    - (make test)
